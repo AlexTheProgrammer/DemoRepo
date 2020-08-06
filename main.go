@@ -1,7 +1,7 @@
-package main
+package demorepo
 
 import "fmt"
 
-func main() {
+func Printstuff() {
 	fmt.Println("vim-go")
 }
